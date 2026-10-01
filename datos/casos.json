@@ -1,0 +1,21 @@
+{
+  "_nota": "MOCK: fechaSiniestro, cultivo, evento y nombre de lote son datos de ejemplo. Reemplazar por los datos reales de la denuncia. Las fechas de imagen, superficies, ambientes y puntos se calculan desde los rasters.",
+  "900186358": {
+    "lote": "Lote 900186358",
+    "cultivo": "Maíz",
+    "fechaSiniestro": "2025-03-27",
+    "evento": "Granizo"
+  },
+  "900186442": {
+    "lote": "Lote 900186442",
+    "cultivo": "Soja",
+    "fechaSiniestro": "2025-03-28",
+    "evento": "Granizo"
+  },
+  "900186252": {
+    "lote": "Lote 900186252",
+    "cultivo": "Soja",
+    "fechaSiniestro": "2025-03-27",
+    "evento": "Granizo"
+  }
+}
